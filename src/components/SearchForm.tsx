@@ -18,7 +18,6 @@ function SearchForm() {
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
-    // You can implement search functionality here
     console.log('Searching for:', searchQuery);
   };
 
