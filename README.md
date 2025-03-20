@@ -64,3 +64,10 @@ For any queries, feel free to reach out:
 ---
 
 **This project was created as part of the hiring process for the Frontend Developer Intern position at Ottermap.**  
+
+## Copyright Notice
+
+Copyright © 2025 Hriday Sehgal. 
+
+This project and its source code are the intellectual property of Hriday Sehgal. Unauthorized copying, modification, distribution, or use of this code without explicit permission is strictly prohibited. All rights reserved.
+
